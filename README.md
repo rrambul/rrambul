@@ -87,11 +87,11 @@ I care about **clean architecture, developer experience, and the small details t
 
 <p align="center">
 
-<a href="https://renanrambul.com">
+<a href="https://renanrambul.dev">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf"/>
 </a>
 
-<a href="https://renanrambul.com/api/cv?locale=en">
+<a href="https://renanrambul.dev/api/cv?locale=en">
 <img src="https://img.shields.io/badge/Download%20CV-111827?style=for-the-badge&logo=readdotcv&logoColor=8b5cf6"/>
 </a>
 
