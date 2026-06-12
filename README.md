@@ -51,22 +51,6 @@ I care about **clean architecture, developer experience, and the small details t
 
 ---
 
-# 🧠 Current Work
-
-• Shipping features **end to end** on a **U.S. healthcare SaaS platform**: API endpoints, data-model changes, accessible UI, and PDF reporting, across **100+ merged PRs**
-
-• Building **accessible, high-performance Web Components** for an internal **design system** using **Lit**, with accessibility and performance treated as requirements, not nice-to-haves
-
-• Writing **Playwright integration tests** that catch regressions before they reach a release
-
-• Publishing **shared npm packages** that keep UI consistent across product teams, and reviewing frontend PRs for **architecture and fidelity to Figma designs**
-
-• Improving the team's **AI-assisted workflows**, including a hierarchical **knowledge base that keeps coding agents productive** across the codebase
-
-• Applying **Domain-Driven Design (DDD)** and a **modular monolith architecture** on the frontend
-
----
-
 # 🧩 Engineering Interests
 
 - Design Systems
