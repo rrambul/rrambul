@@ -13,7 +13,7 @@
 
 Software engineer with **6+ years shipping web products end to end**, from **API design and data modeling** to **design systems and accessible UI**. The frontend is where I go deepest.
 
-These days I build **healthcare SaaS** with a U.S.-based team, owning features **from the API to the pixel**, with **100+ merged PRs** and counting.
+These days I build **healthcare SaaS** with a U.S.-based team, owning features **from the API to the pixel**, with **250+ merged PRs** and counting.
 
 I care about **clean architecture, developer experience, and the small details that make a product feel right**. Also an **open-source enthusiast**, always looking for the next project to contribute to.
 
